@@ -1,0 +1,3 @@
+article/*
+!article/main.tex
+!article/main.pdf
